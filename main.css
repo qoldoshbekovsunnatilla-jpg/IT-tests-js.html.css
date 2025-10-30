@@ -1,0 +1,119 @@
+
+
+
+
+
+body{
+    
+     /* background-color: #27ae60; */
+     background-color: #f8fafc; /* yumshoq oq */
+    margin: 0;
+    padding: 30px;
+}
+h1{
+    color: rgb(3, 19, 33);
+}
+
+.tps{
+        color: rgb(3, 19, 33);
+}
+
+   input[type="radio"] {
+      accent-color: #2746ae; /* radio tugmasi rangi */
+      transform: scale(1.3); /* kattaroq chiqadi */
+      margin-right: 10px;
+    }
+
+label{
+    color:black;
+}
+.btn{
+    width: 200px;
+    height: 45px;
+    border-radius: 15px;
+    background-color: #0c3ee0;
+    border: none;
+    font-size: 25px;
+    color: white;
+    margin-left: 10px;
+}
+
+ .intro {
+      /* background: #fff; */
+      padding: 40px 50px;
+      border-radius: 20px;
+      max-width: 600px;
+      text-align: center;
+      margin: auto;
+      color: white;
+    }
+
+.start{
+    background: #95a2c9;
+      color: white;
+      border: none;
+      padding: 12px 30px;
+      border-radius: 10px;
+      font-size: 18px;
+      cursor: pointer;
+      transition: 0.3s;
+}
+.ma{
+    
+    
+ position: sticky;
+  top: 30px;
+  background-color: #cbd5e1;
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px 15px;
+  width: fit-content;
+  margin: 20px auto;
+ 
+    
+}
+
+
+.reklama{
+     width: 500px;
+    height: 500px;
+    border-radius: 30px;
+    padding: 10px;
+    position: fixed;
+    top: 3%;
+    left: 30%;
+    bottom: 50%;
+    display: none;
+    background-image: url('ChatGPT\ Image\ 30\ окт.\ 2025\ г.\,\ 18_43_04.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.cloce{
+    width: 300PX;
+    height: 45px;
+    margin-top: 330px;
+    margin-left: 100px;
+    color: #2746ae00;
+    background-color: rgba(240, 248, 255, 0);
+    border: none;
+}
+.paste{
+    display: none;
+}
+.rsm{
+    width: 128px;
+    height: 128px;
+}
+.olly{
+    width: 420px;
+    height: 300px;
+    border-radius: 15px;
+}
+.oops{
+    display: flex;
+    justify-content: space-between;
+    
+}

@@ -111,7 +111,9 @@ let oops = document.querySelector(".oops");
 
 start.onclick = function () {
   // Pastani ko‘rsatish
-  paste.style.display = "block";
+  paste.style.display = "inline";
+  paste.style.position = "sticky";
+  paste.style.top = "40px";
 
   // Taymerni ishga tushirish
   bsh = setInterval(() => {
